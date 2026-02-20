@@ -2263,4 +2263,5 @@ export const App = () => (
       </NavigationProvider>
     </AuthProvider>
   </NotificationProvider>
-);
+)
+export default App;
